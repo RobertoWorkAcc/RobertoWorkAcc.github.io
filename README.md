@@ -17,7 +17,7 @@ By changing this you are changing the location of your website. gh.clarkhacks.co
 __Pagination__
 
 ```yaml
-paginate: 5
+paginate: 3
 paginate_path: "/:num/"
 ```
 `paginate` in `_config.yml` is the number of post blocks that will appear on a single page.
